@@ -18,5 +18,6 @@ Build a secure password generator in Python that allows:
 
 ## 🔗 Tags
 `#codsoft` `#pythoninternship` `@CodSoft`
+
 GOOGLE COLAB LINK:
 https://colab.research.google.com/drive/1nBKdvjGESHpgSNkflLSn0dzQky7YTk1A?usp=sharing
