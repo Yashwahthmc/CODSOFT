@@ -1,7 +1,7 @@
 # CodSoft Internship - Task 2: Calculator 🧮
 
 ## 👨‍💻 Developed by
-**Yashwanth M.C.**
+**Yashwanth.M.C.**
 
 ## 🔹 Task Objective
 Build a simple and interactive calculator using Python that supports:
@@ -21,5 +21,6 @@ Build a simple and interactive calculator using Python that supports:
 
 ## 🔗 Tags
 `#codsoft` `#pythoninternship` `@CodSoft`
+
 GOOGLE COLAB LINK:
 https://colab.research.google.com/drive/1BaM80s0frZVnAGSNJkCZNNYOpoOEbWtI?usp=sharing
