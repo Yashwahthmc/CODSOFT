@@ -41,4 +41,3 @@ while True:
             print("Result:",power(n1,n2))
     else:
         print("Invalid choice. Try again.")
-Task 2 - Calculator/README.md
