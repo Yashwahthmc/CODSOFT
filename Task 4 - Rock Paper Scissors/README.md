@@ -1,7 +1,7 @@
 # CodSoft Internship - Task 4: Rock Paper Scissors Game 🎮
 
 ## 👨‍💻 Developed by
-**Yashwanth M.C.**
+**Yashwanth.M.C.**
 
 ## 🔹 Task Objective
 Develop a Python-based Rock-Paper-Scissors game that:
